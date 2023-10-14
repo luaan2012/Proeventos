@@ -2,6 +2,10 @@
 
 ProEventos is a powerful event management system that simplifies the process of event organization, registration, and ticket management. This application is built with Angular for the front end and .NET 6 for the back end, providing a robust platform for creating and managing events. ProEventos allows event organizers to effortlessly register events, create ticket batches, and share event information through social media channels, while attendees can easily register for events.
 
+## :bulb: Live Demo
+
+- ProEventos = [here](<https://proeventos.portfolioluan.shop/>).
+
 ## Features
 
 - **Event Registration:** Event organizers can register and manage events with detailed information, including event name, date, location, and description.
